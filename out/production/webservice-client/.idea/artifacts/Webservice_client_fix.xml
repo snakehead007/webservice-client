@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Webservice-client-fix">
+    <output-path>$PROJECT_DIR$/out/artifacts/Webservice_client_fix</output-path>
+    <root id="archive" name="Webservice-client-fix.jar">
+      <element id="module-output" name="webservice-client" />
+      <element id="library" level="project" name="jdom-2.0.6" />
+    </root>
+  </artifact>
+</component>
